@@ -1,9 +1,9 @@
 ---
 # Banner
 banner:
-  title: "CozyUp"
-  content: "The thermal blanket that will never leve your side"
-  image: "/images/favicon.png"
+  title: "ConfyUp"
+  content: "The thermal blanket that will never leave your side"
+  image: "/images/logofull.png"
   button:
     enable: false
     label: "Get Started For Free"
@@ -11,12 +11,10 @@ banner:
 
 # Features
 features:
-  - title: "CozyUp Products"
-    image: "/images/favicon.png"
-    content: "The CozyUp Blanket"
-    content: "The CozyUp pillow"
+  - title: "ConfyUp Blanket"
+    image: "/images/logofull.png"
     bulletpoints:
-      - "Perfect for a night Confy night"
+      - "Perfect for a Confy night"
       - "Icredible fluffyness"
       - "Perfect to carry"
       - "With cellphone and iphone integration"
